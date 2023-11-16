@@ -1,6 +1,5 @@
-# Список моих проектов 
 | Название                                                                                  | Стек             | ТЗ                                                                                |
 |-------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------|
-| [logisticsProblemSolver](https://github.com/danpaf/logisticsProblemSolver)                                       | peewee,fastapi      | Был написан для хакатона, а так же немного отрефачен (в будущем планируется полная доработка)                    |
-| [PanelMinecraftBot](https://github.com/danpaf/PanelMinecraftBot)                           | dsharpplus,ASP.NET Core            | Дискорд бот, с системой рефлексии,Singleton-объекты и scoped-сервисы|
-
+| [logisticsProblemSolver](https://github.com/danpaf/logisticsProblemSolver)                | peewee,fastapi   | Был написан для хакатона, а также немного отрефакторен (в будущем планируется полная доработка)                    |
+| [PanelMinecraftBot](https://github.com/danpaf/PanelMinecraftBot)                           | dsharpplus,ASP.NET Core | Дискорд бот, с системой рефлексии, Singleton-объекты и scoped-сервисы |
+| [WeatherApi](https://github.com/danpaf/WeatherApi)                                         | .NET7, Swagger    | Проект с реализацией REST запросов, работающий с Weather API, использующий BASIC-авторизацию, сохраняющий и возвращающий температуру в Москве |
